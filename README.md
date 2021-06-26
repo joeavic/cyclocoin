@@ -1,4 +1,4 @@
-Bitcoin Core integration/staging tree
+Cyclocoin Core integration/staging tree
 =====================================
 
 https://bitcoincore.org
